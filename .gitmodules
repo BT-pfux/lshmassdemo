@@ -1,0 +1,4 @@
+[submodule "brain-tec/knowledge"]
+	path = brain-tec/knowledge
+	url = git@github.com:brain-tec/knowledge.git
+	branch = 11.0.lsauto
